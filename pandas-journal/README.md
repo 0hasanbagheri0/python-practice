@@ -42,3 +42,34 @@ This journal contains my daily notes while learning the **Pandas** library. Each
 ---
 
 ## 📈 پیشرفت (Progress)
+Day 1: ████████░░░░░░░░░░░░ 80% (Pandas Basics)
+Day 2: █████████░░░░░░░░░░░ 85% (Filtering Data)
+Day 3: ████████░░░░░░░░░░░░ 80% (Series Intro)
+Day 4: ████████░░░░░░░░░░░░ 80% (Making Series)
+Day 5: ████████░░░░░░░░░░░░ 80% (Series Features)
+Day 6: █████████░░░░░░░░░░░ 90% (Important Features)
+Day 7: █████████░░░░░░░░░░░ 90% (Arithmetic Ops)
+Day 8: █████████░░░░░░░░░░░ 85% (Converting Series)
+Day 9: █████████░░░░░░░░░░░ 85% (Reading from File)
+Day10: █████████░░░░░░░░░░░ 85% (Sorting Series)
+─────────────────────────────────────────────────
+Avg: █████████░░░░░░░░░░░ 86% (Overall)
+
+---
+
+## 📝 چگونه از این مجله استفاده کنم؟
+
+1. هر روز یک فایل جدید با فرمت `day-XX-topic.md` ایجاد می‌کنم.
+2. تمام نکات، کدها و چالش‌های روز را مستند می‌کنم.
+3. در پایان روز، امتیاز می‌دهم و پیشرفت را ثبت می‌کنم.
+4. این مجله به عنوان مرجع شخصی من برای مرور آینده استفاده می‌شود.
+
+---
+
+## 🏷️ برچسب‌ها (Tags)
+
+`pandas` `series` `dataframe` `data-analysis` `python` `learning-journal`
+
+---
+
+**📅 آخرین بروزرسانی / Last Updated:** June 26, 2026
