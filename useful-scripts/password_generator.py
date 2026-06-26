@@ -351,4 +351,22 @@ print("""
    python password_generator.py --length 32
 
 4. Generate without special characters:
-   python password_generator.py --no-s
+   python password_generator.py --no-symbols
+
+5. Generate memorable password:
+   python password_generator.py --memorable --words 4
+
+6. Save to file:
+   python password_generator.py --save my_passwords.txt
+
+7. Check password strength:
+   python password_generator.py --strength
+
+8. Generate password without similar characters:
+   python password_generator.py --exclude-similar
+
+Examples:
+  Strong:     "xK9#mP2$vL5@qR8&"
+  Memorable:  "apple-moon-brave-42"
+  Secure:     "4G!s7F#n8K@qR$mP"
+""")
